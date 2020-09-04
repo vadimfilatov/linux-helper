@@ -30,6 +30,7 @@ install "Скачивается пакет viber..." "wget https://download.cdn.
 install "Установка пакета viber..." "sudo apt install ./viber.deb -y"
 install "Установка пакета snapd..." "sudo apt-get install snapd -y"
 install "Установка пакета telegram-desktop..." "sudo snap install telegram-desktop"
+install "Установка пакета scrcpy..." "sudo snap install scrcpy"
 install "Установка пакета mailspring..." "sudo snap install mailspring"
 install "Установка пакета screenfetch..." "sudo apt-get install screenfetch -y"
 install "Установка пакета neofetch..." "sudo apt-get install neofetch -y"
