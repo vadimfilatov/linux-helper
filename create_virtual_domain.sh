@@ -15,7 +15,7 @@ sudo echo "127.0.0.1 $domain" >> /etc/hosts
 command "cd /etc/apache2/sites-available"
 command "sudo touch $domain.conf"
 command "sudo chmod 777 $domain.conf"
-command "sudo chmod 777 -R /home/$username/web/$domain/"
+command "sudo chmod 777 -R /home/$USER/web/$domain/"
 sudo echo "<VirtualHost *:80>
 ServerName $domain
 
