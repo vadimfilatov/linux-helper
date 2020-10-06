@@ -20,6 +20,7 @@ install "Установка пакета chrome-stable..." "sudo apt install ./g
 install "Установка пакета filezilla..." "sudo apt-get install filezilla -y"
 install "Установка пакета flameshot..." "sudo apt-get install flameshot -y"
 install "Установка пакета kdeconnect..." "sudo apt-get install kdeconnect -y"
+install "Установка пакета chrome-gnome-shell..." "sudo apt-get install chrome-gnome-shell libproxy1-plugin-networkmanager gnome-shell-extension-system-monitor -y"
 install "Установка пакета transmission..." "sudo apt-get install transmission -y"
 install "Установка пакета clementine..." "sudo apt-get install clementine -y"
 install "Установка пакета vlc..." "sudo apt-get install vlc -y"
