@@ -39,6 +39,7 @@ install "Установка пакета neofetch..." "sudo apt-get install neof
 install "Установка пакета sublime-text..." "sudo snap install sublime-text --classic"
 install "Установка пакета spotify..." "sudo snap install spotify"
 install "Установка пакета apache2..." "sudo apt-get install apache2 -y"
+install "Установка пакета nginx..." "sudo apt-get install nginx -y"
 install "Установка пакета php7.4..." "sudo apt-get install php7.4 libapache2-mod-php7.4 -y"
 install "Установка пакета composer..." "sudo apt-get install composer -y"
 install "Установка пакета nodejs..." "sudo apt-get install nodejs -y"
