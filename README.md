@@ -7,3 +7,7 @@ if terminal output:
 enter this:
 
 `sed -i 's/\r$//' ./script.sh`
+
+run installer
+
+`git clone https://github.com/vadimfilatov/linux-helper && cd linux-helper && ./linux_starter_pack.sh`
